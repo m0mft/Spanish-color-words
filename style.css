@@ -1,0 +1,9 @@
+#red {color: red;}
+#blue {color: blue}
+#orange {color: orange}
+#green {color: green}
+#yellow {color: rgba(208, 208, 21, 0.673)}
+
+.color-tile {font-weight: normal}
+
+img {height: 200px; width: 200px;}
